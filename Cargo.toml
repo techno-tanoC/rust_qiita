@@ -1,2 +1,5 @@
 [workspace]
-members = ["qiita"]
+members = [
+  "qiita",
+  "generator",
+]
